@@ -1,0 +1,22 @@
+# Datos originales y archivos grandes
+data/raw/
+*.fits
+*.fits.gz
+
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.log
