@@ -1,2 +1,2 @@
-# ml_emilio
-hola amigos de Youtube en este repositorio vamos a ver como hacer que una computadora aprenda solita a estimas masas de galaxias. espero que les guste *insertar intro de Youtube de cartel dando vueltas con música electrónica de fondo*
+# galaxy-ssfr-prediction-rf
+Predicción de la tasa específica de formación estelar (sSFR) de galaxias mediante Random Forest, evaluando el impacto de información espectroscópica comprimida por PCA.
