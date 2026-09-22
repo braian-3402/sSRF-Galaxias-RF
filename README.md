@@ -49,6 +49,40 @@ El procedimiento general consistió en:
 4. Evaluar su desempeño mediante métricas de regresión.
 5. Analizar la importancia de las variables.
 
+## Resultados gráficos
+
+### Comparación de métricas
+
+La tabla resume el desempeño mediante MAE, RMSE, R² y bias:
+
+![Tabla comparativa de resultados](<figures/poster/TablaResultados.jpeg>)
+
+### Predicción frente al valor real
+
+![Comparación entre la predicción y el valor real](<figures/poster/Comparativa Predicción vs. Real (Random Forest).jpeg>)
+
+### Análisis de residuos
+
+#### Residuos frente a la masa estelar
+
+![Error residual frente a la masa estelar](<figures/poster/Error Residual frente a la Masa Estelar.jpeg>)
+
+#### Residuos frente al redshift
+
+![Error residual frente al redshift](<figures/poster/Error Residual frente al Redshift.jpeg>)
+
+#### Residuos frente al color de la galaxia
+
+![Error residual frente al color de la galaxia](<figures/poster/Error Residual frente al Color de la Galaxia.jpeg>)
+
+#### Residuos frente al valor real
+
+![Análisis de residuos frente al valor real](<figures/poster/Análisis de Residuos frente al Valor Real (Random Forest).jpeg>)
+
+### Importancia de variables
+
+![Importancia de variables](<figures/poster/Importancia de features - Foto_Espectro_Redshift.jpeg>)
+
 ## Fuentes
 
 - [SDSS SkyServer DR16](https://skyserver.sdss.org/dr16/en/home.aspx)
